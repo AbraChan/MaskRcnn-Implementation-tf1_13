@@ -1,0 +1,2 @@
+logs/balloon/mask_rcnn_balloon.h5 filter=lfs diff=lfs merge=lfs -text
+logs/mask_rcnn_coco.h5 filter=lfs diff=lfs merge=lfs -text
